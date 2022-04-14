@@ -1,3 +1,16 @@
+:root {
+    --color-primary: #80db8c;
+    --color-primary-light: #4f5b62;
+    --color-primary-dark: #000a12;
+
+    --color-text: #ffffff;
+}
+body {
+    margin: 0;
+    padding: 0;
+
+    background-color:var(--color-primary);
+}
 .logo
 {
  text-align: center;   
@@ -17,7 +30,8 @@ h2
 }
 .desc_brève
 {
-    text-align: center;   
+    text-align: center; 
+    font-size: large;  
 }
 .acceuil
 {
@@ -28,6 +42,10 @@ h2
     text-align: center;   
 }
 .contact
+{
+    text-align: center;   
+}
+.a_propos
 {
     text-align: center;   
 }
