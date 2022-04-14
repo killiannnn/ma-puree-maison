@@ -3,29 +3,31 @@
  text-align: center;   
 }
 h1{
-    text-align: center;   
+    text-align: center;
+    font-family: "comic sans MS"; 
 }
 h2
 {
-text-align: center;   
+    text-align: center;  
+    font-family: 'Cambria', 'Cochin', Georgia, Times, 'Times New Roman', serif;  
 }
 .img_enfant_heureux
 {
-text-align: center;   
+    text-align: center;   
 }
 .desc_brève
 {
-text-align: center;   
+    text-align: center;   
 }
 .acceuil
 {
-text-align: center;   
+    text-align: center;   
 }
 .boutique
 {
-text-align: center;   
+    text-align: center;   
 }
 .contact
 {
-text-align: center;   
+    text-align: center;   
 }
