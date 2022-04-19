@@ -60,9 +60,10 @@ body
 {
     text-align: center;
 }
-.num
+ul
 {
     text-align: center;
+    list-style-type: none;
 }
 footer
 {
