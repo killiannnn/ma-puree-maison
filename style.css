@@ -64,3 +64,13 @@ body
 {
     text-align: center;
 }
+footer
+{
+    background-color: #000000;
+    bottom: 0;
+}
+.help
+{
+    color: #000;
+    font-size: 0.3em;
+}
