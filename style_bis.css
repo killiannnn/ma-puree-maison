@@ -98,3 +98,27 @@ footer {
     display: flex;
     justify-content: space-between;
 }
+.deux
+{
+    font-size: 1.7em;
+}
+.trois
+{
+    font-size: 1.7em;
+}
+.boutique
+{
+    font-size: 1.7em;
+}
+.boutique:hover
+{
+    background-color: blue;
+}
+.deux:hover
+{
+    background-color: blue;
+}
+.trois:hover
+{
+    background-color: blue;
+}
