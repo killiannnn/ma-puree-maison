@@ -84,3 +84,17 @@ footer {
     display: flex;
     justify-content: space-between;
 }
+.point
+{
+    color: #000;
+}
+.trois_bar
+{
+    text-align: left;
+}
+#bar_2
+{
+    background-color: #000;
+    display: flex;
+    justify-content: space-between;
+}
