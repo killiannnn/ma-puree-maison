@@ -122,3 +122,11 @@ footer {
 {
     background-color: blue;
 }
+.acceuil
+{
+    font-size: 2em;
+}
+.acceuil:hover
+{
+    background-color: blue;
+}
